@@ -13,3 +13,4 @@ Git has a mutable index called state.}
 Git tracks changes.
 
 Creating a new branch is quick&simple.
+
